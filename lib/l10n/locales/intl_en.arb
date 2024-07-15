@@ -1,0 +1,32 @@
+{
+  "@@locale": "en",
+  "settings": "Settings",
+  "promo": "Promo",
+  "judges": "Judges",
+  "screen": "Screen",
+  "matches": "Matches",
+  "previous": "Previous",
+  "next": "Next",
+  "showOnTv": "Show on TV",
+  "winner": "Winner",
+  "combatPresentationLabel": "Combat: {presentation}",
+  "@combatPresentationLabel": {
+    "placeholders": {
+      "presentation": {
+        "type": "String"
+      }
+    }
+  },
+  "coachPresentationLabel": "Combat: {presentation}",
+  "@coachPresentationLabel": {
+    "placeholders": {
+      "presentation": {
+        "type": "String"
+      }
+    }
+  },
+  "penalty": "Penalty",
+  "thisMatchIsActive": "This match is active",
+  "saveResults": "Save results",
+  "showResultOnScreen": "Show result on screen"
+}
